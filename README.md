@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./viastack-logo.png" alt="ViaStack Systems" height="88" />
+  <img src="viastack-logo.png" alt="ViaStack Systems" height="88">
 </p>
 
 <h1 align="center">ViaStack Systems</h1>
